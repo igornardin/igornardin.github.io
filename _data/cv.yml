@@ -2,96 +2,56 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Igor Fontana de Nardin
     - name: Date of Birth
-      value: 14th March 1879
+      value: 25th May 1990
     - name: Languages
-      value: English, German
+      value: Portuguese, English, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Université de Toulouse, Toulouse, France
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - title: Online scheduling for IT tasks and power source commitment in data centers only operated with renewable energy.
+    - title: Master's in Applied computing
+      institution: Universidade do Vale do Rio dos Sinos, São Leopoldo, Brazil
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - title: "Elergy: Cloud elasticity to manage performance and energy in microservice application"
+    - title: Bachelor's degree in Computer science
+      institution: Universidade do Vale do Rio dos Sinos, São Leopoldo, Brazil
+      year: 2016
+      description:
+        - title: "Proelastic: Model for proactive elasticity in iterative high performance applications"
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral fellow
+      institution: Computer Science Research Institute of Toulouse (IRIT), Toulouse, France
+      year: 2024 - 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Online task scheduling
+        - Renewable energy
+        - Reinforcement Learning
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Working Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Senior Developer
+      institution: Rech Informática LTDA, Novo Hamburgo, Brazil
+      year: 2009 - 2020
+      description:
+        - Cobol Microfocus
+        - Scrum Master
+        - Java, Javascript, Spring Boot, AngularJS et REST API
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2016
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Assespro/RS Award - The best conclusion course work in 2016
