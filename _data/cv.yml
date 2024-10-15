@@ -20,12 +20,12 @@
       institution: Universidade do Vale do Rio dos Sinos, São Leopoldo, Brazil
       year: 2020
       description:
-        - title: "Elergy: Cloud elasticity to manage performance and energy in microservice application"
+        - title: Elergy - Cloud elasticity to manage performance and energy in microservice application
     - title: Bachelor's degree in Computer science
       institution: Universidade do Vale do Rio dos Sinos, São Leopoldo, Brazil
       year: 2016
       description:
-        - title: "Proelastic: Model for proactive elasticity in iterative high performance applications"
+        - title: Proelastic - Model for proactive elasticity in iterative high performance applications
 
 - title: Research Experience
   type: time_table
