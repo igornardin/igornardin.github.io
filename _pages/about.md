@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>IRIT</p>
     <p>118 Route de Narbonne</p>
     <p>F-31062 TOULOUSE CEDEX 9t</p>
     <p>Toulouse, France</p>
