@@ -32,7 +32,7 @@ You can read my PhD's thesis [here](https://theses.hal.science/tel-04361471).
 I try to stay updated on software development, sometimes trying new things by myself (for example, I learned Flutter for a personal project and PHP to help a friend). My career path allowed me to try different languages (Ruby, Python, Java, C#, and C++), frameworks/tools (.NET, Prometheus.io, docker, and docker swarm), and algorithms (Heuristics, Dynamic programming, Linear programming, and Reinforcement learning).
 
 ## Personal stuff
-I am a sports passionate. I have tried different sports, from football to American football. I love to watch and play (in real life or video games). Here are some of them:
+I am a sports lover. I have tried different sports, from football to American football. I love to watch and play (in real life or video games). Here are some of them:
 - Football;
 - Basketball;
 - Baseball;
