@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Datazero2 project
+title: Datazero2
 description: with background image
 img: assets/img/datazerologo.png
 importance: 1
