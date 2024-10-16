@@ -15,17 +15,20 @@
       institution: Université de Toulouse, Toulouse, France
       year: 2023
       description:
-        - Online scheduling for IT tasks and power source commitment in data centers only operated with renewable energy.
+        - "Title: Online scheduling for IT tasks and power source commitment in data centers only operated with renewable energy."
+        - "Keywords: Scheduling, Renewable sources, Data center, Energy storage management"
     - title: Master's in Applied computing
       institution: Universidade do Vale do Rio dos Sinos, São Leopoldo, Brazil
       year: 2020
       description:
-        - Elergy - Cloud elasticity to manage performance and energy in microservice application
+        - "Title: Elergy - Cloud elasticity to manage performance and energy in microservice application"
+        - "Keywords: Scheduling, Containers, Cloud Computing, Energy"
     - title: Bachelor's degree in Computer science
       institution: Universidade do Vale do Rio dos Sinos, São Leopoldo, Brazil
       year: 2016
       description:
-        - Proelastic - Model for proactive elasticity in iterative high performance applications
+        - "Title: Proelastic - Model for proactive elasticity in iterative high performance applications"
+        - "Keywords: Scheduling, Virtual Machines, Cloud Computing"
 
 - title: Research Experience
   type: time_table
@@ -37,6 +40,7 @@
         - Online task scheduling
         - Renewable energy
         - Reinforcement Learning
+        - Optimization
 
 - title: Working Experience
   type: time_table
