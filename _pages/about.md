@@ -26,6 +26,8 @@ Since earning my bachelor's degree, I have been passionate about cloud computing
 
 Balancing quality and eco-responsible is an open-research topic (and my new passion :D). Therefore, my last works focus on this topic: dealing with cloud users' tasks but considering renewable energy sources. Since they are finite, we must balance between the best moment to use the energy and maximize the service's quality.
 
+You can read my PhD's thesis [here](https://theses.hal.science/tel-04361471).
+
 ## Software development
 I try to stay updated on software development, sometimes trying new things by myself (for example, I learned Flutter for a personal project and PHP to help a friend). My career path allowed me to try different languages (Ruby, Python, Java, C#, and C++), frameworks/tools (.NET, Prometheus.io, docker, and docker swarm), and algorithms (Heuristics, Dynamic programming, Linear programming, and Reinforcement learning).
 
