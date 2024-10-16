@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /communication/
-title: Communication
+title: communication
+permalink: /communication/
 description: I list below some activities regarding research communication.
 nav: true
 nav_order: 4
