@@ -1,6 +1,6 @@
 ---
 layout: page
-title: communication
+title: Communication
 permalink: /communication/
 description: I list below some activities regarding research communication.
 nav: true
