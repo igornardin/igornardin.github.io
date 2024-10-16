@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Talks
-description: 
-importance: 1
-category: work
-related_publications: true
+title: /communication/
+title: Communication
+description: I list below some activities regarding research communication.
+nav: true
+nav_order: 4
+horizontal: false
 ---
-
-I list below some activities regarding research communication.
 
 ## Organization
 - Technical organization of [GreenDays 2024](http://perso.ens-lyon.fr/laurent.lefevre/greendaystoulouse2024/)
