@@ -24,7 +24,7 @@ Welcome to my personal page. On this webpage, you will find useful professional 
 ## Research Topics
 Since earning my bachelor's degree, I have been passionate about cloud computing and data centers. Previously, my main focus was on performance, that is, increasing the quality of service for the end users. However, the world is facing one of the biggest challenges of our time: global warming. So, providing a high-quality service must not be the only objective of a cloud provider. It is known that cloud providers are one of the biggest energy consumers in the Information and Communications Technology sector. Adding up that this energy consumption comes from non-renewable sources, this is the recipe for a catastrophe.
 
-Balancing quality and eco-responsible is an open-research topic (and my new passion :D). Therefore, my last works focus on this topic: dealing with cloud users' tasks but considering renewable energy sources. Since they are finite, we must balance between the best moment to use the energy and maximize the service's quality.
+Balancing quality and eco-responsible is an open-research topic (and my new passion :D). Therefore, my last works focus on this topic: dealing with cloud users' tasks but considering renewable energy sources. Since renewable is finite, we must balance between the best moment to use the energy and maximize the service's quality.
 
 You can read my PhD's thesis [here](https://theses.hal.science/tel-04361471).
 
