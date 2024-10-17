@@ -2,7 +2,7 @@
 layout: page
 title: Datazero2
 description: 
-img: assets/img/datazerologo.png
+img: assets/img/datazerologo.webp
 importance: 1
 category: work
 related_publications: true

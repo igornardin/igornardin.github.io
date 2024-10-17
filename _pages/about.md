@@ -6,7 +6,7 @@ subtitle: Postdoctoral fellow at Computer Science Research Institute of Toulouse
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.webp
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>IRIT</p>

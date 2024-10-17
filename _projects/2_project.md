@@ -2,7 +2,7 @@
 layout: page
 title: Carecloud
 description: 
-img: assets/img/carecloud.png
+img: assets/img/carecloud.webp
 importance: 1
 category: work
 related_publications: false
