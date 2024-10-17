@@ -301,7 +301,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Fontana de Nardin]
+  last_name: [Nardin, Fontana De Nardin, Fontana, Fontana Nardin]
   first_name: [Igor]
 
   style: apa
