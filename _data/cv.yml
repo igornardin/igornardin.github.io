@@ -60,6 +60,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - Nominee for the best thesis award at INP Toulouse
+        - Nominee for best paper at the 35th IEEE International Symposium on Computer Architecture and High Performance Computing
     - year: 2016
       items:
         - Assespro/RS Award - The best conclusion course work in 2016
